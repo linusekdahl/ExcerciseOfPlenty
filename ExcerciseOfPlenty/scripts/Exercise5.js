@@ -5,5 +5,7 @@ var tal = [1, 2, 3, 4, 5, 6];
 function MinskaTalTillsDetArNoll() {
     for (i = 0; i < tal.length; tal--) {
         alert(tal);
+
+
     }
 }
