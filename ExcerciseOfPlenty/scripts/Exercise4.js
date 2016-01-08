@@ -8,4 +8,6 @@ function SplitInThree() {
         Sluttal = tal;
         alert("Talet blir" + Sluttal + "och är Delbart med 3")       
     }
+
+
 }

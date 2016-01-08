@@ -11,4 +11,6 @@ function Print() {
     else {
         alert("Talet är inte störst")
     }
+
+
 }
